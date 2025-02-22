@@ -1,0 +1,105 @@
+Change Footprint: Cannot match pads with new footprint in component :R3 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R4 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R5 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R7 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R8 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R10 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R11 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R12 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R13 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R14 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R15 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R16 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R17 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R18 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R21 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R22 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R23 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R26 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R27 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R28 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R29 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R32 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R33 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R34 Footprint:RES-SMD-2010
+Change Footprint: Cannot match pads with new footprint in component :R35 Footprint:RES-SMD-2010
+Change Physical Footprint: Designator=C1 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C2 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C3 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C4 Old Footprint=CA-ALU-5L New Footprint=CA-ALU-5L
+Change Physical Footprint: Designator=C5 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C6 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C7 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C8 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C9 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C10 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C11 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C12 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C13 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C14 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C15 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C16 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C17 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C18 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C19 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C20 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C21 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C22 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C23 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C24 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=C25 Old Footprint=FP-CC0603-DA-MFG New Footprint=FP-CC0603-DA-MFG
+Change Physical Footprint: Designator=D1 Old Footprint=FP-LTST-C191KRKT-MFG New Footprint=FP-LTST-C191KRKT-MFG
+Change Physical Footprint: Designator=D2 Old Footprint=FP-DO-213AA-MFG New Footprint=FP-DO-213AA-MFG
+Change Physical Footprint: Designator=D3 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D4 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D5 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D6 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D7 Old Footprint=FP-DO-213AA-MFG New Footprint=FP-DO-213AA-MFG
+Change Physical Footprint: Designator=D8 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D9 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D10 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D11 Old Footprint=FP-LTST-C191TBKT-MFG New Footprint=FP-LTST-C191TBKT-MFG
+Change Physical Footprint: Designator=D12 Old Footprint=FP-LTST-C191KRKT-MFG New Footprint=FP-LTST-C191KRKT-MFG
+Change Physical Footprint: Designator=F1 Old Footprint=Fuse1 New Footprint=Fuse1
+Change Physical Footprint: Designator=F2 Old Footprint=FP-MF-NSMF110-2-MFG New Footprint=FP-MF-NSMF110-2-MFG
+Change Physical Footprint: Designator=fet1 Old Footprint=FP-PG-TO263-3-MFG New Footprint=FP-PG-TO263-3-MFG
+Change Physical Footprint: Designator=fet2 Old Footprint=FP-PG-TO263-3-MFG New Footprint=FP-PG-TO263-3-MFG
+Change Physical Footprint: Designator=fet3 Old Footprint=FP-PG-TO263-3-MFG New Footprint=FP-PG-TO263-3-MFG
+Change Physical Footprint: Designator=fet4 Old Footprint=FP-PG-TO263-3-MFG New Footprint=FP-PG-TO263-3-MFG
+Change Physical Footprint: Designator=IC1 Old Footprint=SOT94P279X130-5N New Footprint=SOT94P279X130-5N
+Change Physical Footprint: Designator=J1 Old Footprint=FP-S6B-XH-SM4-TB_LF_SN-MFG New Footprint=FP-S6B-XH-SM4-TB_LF_SN-MFG
+Change Physical Footprint: Designator=J2 Old Footprint=FP-S4B-XH-SM4-TB_LF_SN-MFG New Footprint=FP-S4B-XH-SM4-TB_LF_SN-MFG
+Change Physical Footprint: Designator=J3 Old Footprint=FP-S4B-XH-SM4-TB_LF_SN-MFG New Footprint=FP-S4B-XH-SM4-TB_LF_SN-MFG
+Change Physical Footprint: Designator=J4 Old Footprint=FP-S4B-XH-SM4-TB_LF_SN-MFG New Footprint=FP-S4B-XH-SM4-TB_LF_SN-MFG
+Change Physical Footprint: Designator=MOTOR1 Old Footprint=XT60PWM New Footprint=XT60PWM
+Change Physical Footprint: Designator=Node1 Old Footprint=Node_B New Footprint=Node_B
+Change Physical Footprint: Designator=Node2 Old Footprint=Node_B New Footprint=Node_B
+Change Physical Footprint: Designator=Node3 Old Footprint=Node_B New Footprint=Node_B
+Change Physical Footprint: Designator=Node4 Old Footprint=Node_B New Footprint=Node_B
+Change Physical Footprint: Designator=Node5 Old Footprint=Node_B New Footprint=Node_B
+Change Physical Footprint: Designator=PWR1 Old Footprint=XT60PWM New Footprint=XT60PWM
+Change Physical Footprint: Designator=R1 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R2 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R6 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R9 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R19 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R20 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R24 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R25 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R30 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=R31 Old Footprint=RES-SMD-2010 New Footprint=RES-SMD-2010
+Change Physical Footprint: Designator=TP1 Old Footprint=TP_SW New Footprint=TP_SW
+Change Physical Footprint: Designator=TP2 Old Footprint=TP_SW New Footprint=TP_SW
+Change Physical Footprint: Designator=TP3 Old Footprint=TP_SW New Footprint=TP_SW
+Change Physical Footprint: Designator=TP4 Old Footprint=TP_SW New Footprint=TP_SW
+Change Physical Footprint: Designator=U1 Old Footprint=TO-252_N New Footprint=TO-252_N
+Change Physical Footprint: Designator=U2 Old Footprint=SOT-89_L New Footprint=SOT-89_L
+Change Physical Footprint: Designator=U3 Old Footprint=FP-DCK0006A-MFG New Footprint=FP-DCK0006A-MFG
+Change Physical Footprint: Designator=U4 Old Footprint=FP-PG-DSO-8-MFG New Footprint=FP-PG-DSO-8-MFG
+Change Physical Footprint: Designator=U5 Old Footprint=FP-DCK0006A-MFG New Footprint=FP-DCK0006A-MFG
+Change Physical Footprint: Designator=U6 Old Footprint=FP-HCPL-0631-500E-IPC_C New Footprint=FP-HCPL-0631-500E-IPC_C
+Change Physical Footprint: Designator=U7 Old Footprint=FP-PG-DSO-8-MFG New Footprint=FP-PG-DSO-8-MFG
+Change Physical Footprint: Designator=U8 Old Footprint=STM-LQFP48_L New Footprint=STM-LQFP48_L
+Change Physical Footprint: Designator=U9 Old Footprint=MCHP-SN8_V New Footprint=MCHP-SN8_V
+Change Physical Footprint: Designator=USB1 Old Footprint=FP-USB4110-GF-A-MFG New Footprint=FP-USB4110-GF-A-MFG
+Change Physical Footprint: Designator=X1 Old Footprint=FP-ABM7-MFG New Footprint=FP-ABM7-MFG

@@ -1,0 +1,17 @@
+15:30:15 **** Incremental Build of configuration Debug for project PID_F103 ****
+make -j8 all 
+arm-none-eabi-gcc -gdwarf-4 "../USB_DEVICE/App/usbd_custom_hid_if.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I"D:/ROBOCON_SP/PID_By_Kha/PID_F103/user" -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../USB_DEVICE/App -I../USB_DEVICE/Target -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Inc -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3 -O3 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"USB_DEVICE/App/usbd_custom_hid_if.d" -MT"USB_DEVICE/App/usbd_custom_hid_if.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "USB_DEVICE/App/usbd_custom_hid_if.o"
+arm-none-eabi-gcc -gdwarf-4 -o "PID_F103.elf" @"objects.list"   -mcpu=cortex-m3 -T"D:\ROBOCON_SP\PID_By_Kha\PID_F103\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PID_F103.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: PID_F103.elf
+ 
+arm-none-eabi-size  PID_F103.elf 
+arm-none-eabi-objdump -h -S PID_F103.elf  > "PID_F103.list"
+   text	   data	    bss	    dec	    hex	filename
+  34200	    440	  10904	  45544	   b1e8	PID_F103.elf
+Finished building: default.size.stdout
+ 
+Finished building: PID_F103.list
+ 
+
+15:30:17 Build Finished. 0 errors, 0 warnings. (took 1s.217ms)
+

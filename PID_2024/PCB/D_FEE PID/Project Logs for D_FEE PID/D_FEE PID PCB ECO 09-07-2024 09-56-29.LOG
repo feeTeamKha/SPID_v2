@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VS+ Pin=MOTOR1-3
+Removed Pin From Net: NetName=VS- Pin=MOTOR1-4
+Removed Pin From Net: NetName=DGND Pin=PWR-3
+Removed Pin From Net: NetName=NetF1_1 Pin=PWR-4

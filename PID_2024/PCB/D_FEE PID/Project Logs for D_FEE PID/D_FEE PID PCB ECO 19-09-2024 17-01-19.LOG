@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=CAN Old Footprint=JST GH 4PIN New Footprint=JST SR 4PIN
+Change Component Footprint: Designator=PULSE Old Footprint=JST GH 4PIN New Footprint=JST SR 4PIN
+Change Component Footprint: Designator=UART Old Footprint=JST GH 4PIN New Footprint=JST SR 4PIN
+Change Component Footprint: Designator=SPI Old Footprint=JST GH 6PIN New Footprint=JST SR 6PIN
+Change Component Footprint: Designator=ENCODER Old Footprint=XH4/90 New Footprint=JST SR 4PIN
+Change Component Comment : Designator=UART Old Comment= New Comment=JST SR 4PIN
+Change Component Comment : Designator=SPI Old Comment= New Comment=JST SR 6PIN
+Change Component Comment : Designator=CAN Old Comment=JST GH 4PIN New Comment=JST SR 4PIN
+Change Component Comment : Designator=PULSE Old Comment=JST GH 4PIN New Comment=JST SR 4PIN
+Change Component Comment : Designator=ENCODER Old Comment=XH4/90 New Comment=JST SR 4PIN
+Change component parameters: Designator = "ENCODER" ("ENCODER"); Footprint = "XH4/90"; UniqueID = "\SCYFIWEE" ("\SCYFIWEE")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SPI" ("SPI"); Footprint = "JST GH 6PIN"; UniqueID = "\LXDLVWUH" ("\LXDLVWUH")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "455-1806-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/jst-sales-america-inc/SM06B-SRSS-TB_LF__SN_/455-1806-1-ND/926877?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SM06B-SRSS-TB_LF__SN_"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SM06B-SRSS-TB%28LF%29%28SN%29/JST%20Sales%20America%20Inc./view-part/554386/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SPI-S1
+Added Pin To Net: NetName=GND Pin=SPI-S2

@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=ENCODER Old DesignItemId=JST GH 4PIN New DesignItemId=XH4/90
+Change Component Footprint: Designator=ENCODER Old Footprint=JST GH 4PIN New Footprint=XH4/90
+Change Component Comment : Designator=ENCODER Old Comment=JST GH 4PIN New Comment=XH4/90
+Change Component Description : Designator=ENCODER Old Description=No Description Available New Description=CON4 2.54mm 90'
+Change Component Library : Designator=ENCODER Old Library=JST GH.IntLib New Library=Library_Official.IntLib
+Change component parameters: Designator = "ENCODER" ("ENCODER"); Footprint = "JST GH 4PIN"; UniqueID = "\SCYFIWEE" ("\SCYFIWEE")

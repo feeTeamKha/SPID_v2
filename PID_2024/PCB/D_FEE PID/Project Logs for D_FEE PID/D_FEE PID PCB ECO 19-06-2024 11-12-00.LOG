@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=DIR Pin=J1-3
+Removed Pin From Net: NetName=MOSI Pin=J1-4
+Removed Pin From Net: NetName=MOSI Pin=U8-26
+Removed Pin From Net: NetName=DIR Pin=U8-27
+Added Pin To Net: NetName=MOSI Pin=J1-3
+Added Pin To Net: NetName=DIR Pin=J1-4
+Added Pin To Net: NetName=DIR Pin=U8-26
+Added Pin To Net: NetName=MOSI Pin=U8-27
+Change Net Name : Old Net Name=MOSI New Net Name=MISO
+Added Room: Name=D_FEE PID

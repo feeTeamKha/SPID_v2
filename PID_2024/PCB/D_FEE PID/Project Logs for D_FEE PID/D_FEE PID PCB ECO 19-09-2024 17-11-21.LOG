@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DGND Pin=POWER1-P$1
+Removed Pin From Net: NetName=NetF1_1 Pin=POWER1-P$2
+Added Pin To Net: NetName=NetF1_1 Pin=POWER1-P$1
+Added Pin To Net: NetName=DGND Pin=POWER1-P$2

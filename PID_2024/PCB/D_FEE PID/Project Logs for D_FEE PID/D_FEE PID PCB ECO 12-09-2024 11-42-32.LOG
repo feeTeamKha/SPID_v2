@@ -1,0 +1,9 @@
+Added Component: Designator=PULSE(JST GH 4PIN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DIR Pin=PULSE-1
+Added Pin To Net: NetName=PWM Pin=PULSE-2
+Added Pin To Net: NetName=VBUS Pin=PULSE-3
+Added Pin To Net: NetName=GND Pin=PULSE-4
+Added Member To Class: ClassName=D_FEE PID Member=Component PULSE JST GH 4PIN

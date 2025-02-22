@@ -1,0 +1,6 @@
+Remove Pin=J1-1 From Net=ENB
+Remove Pin=J1-2 From Net=ENA
+Remove Pin=J2-1 From Net=CAN_L
+Remove Pin=J2-2 From Net=CAN_H
+Remove Pin=J4-1 From Net=TX
+Remove Pin=J4-2 From Net=RX

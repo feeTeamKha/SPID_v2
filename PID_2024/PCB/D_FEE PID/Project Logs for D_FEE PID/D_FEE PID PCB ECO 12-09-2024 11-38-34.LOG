@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=ENCODER
+Change Component Designator: OldDesignator=J2 NewDesignator=CAN
+Change Component Designator: OldDesignator=J3 NewDesignator=PULSE
+Change Component Designator: OldDesignator=J4 NewDesignator=UART
+Change Component Designator: OldDesignator=J5 NewDesignator=SPI

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DGND Pin=C13-1
+Removed Pin From Net: NetName=5VDC Pin=C13-2
+Removed Member From Class: ClassName=D_FEE PID Member=C13

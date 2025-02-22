@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=3V3 Pin=Debug-4
+Added Pin To Net: NetName=VBUS Pin=Debug-4

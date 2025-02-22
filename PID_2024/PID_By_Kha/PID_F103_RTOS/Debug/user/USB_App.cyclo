@@ -1,0 +1,4 @@
+../user/USB_App.c:9:13:HID_param_init	1
+../user/USB_App.c:103:13:HID_WD	3
+../user/USB_App.c:111:13:HID_RD	10
+../user/USB_App.c:164:6:HID_Data_Init	1

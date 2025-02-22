@@ -1,0 +1,10 @@
+22:58:54 **** Incremental Build of configuration Debug for project PID_F103_RTOS ****
+make -j8 all 
+arm-none-eabi-size  PID_F103_RTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  62432	    432	  13440	  76304	  12a10	PID_F103_RTOS.elf
+Finished building: default.size.stdout
+ 
+
+22:58:54 Build Finished. 0 errors, 0 warnings. (took 448ms)
+

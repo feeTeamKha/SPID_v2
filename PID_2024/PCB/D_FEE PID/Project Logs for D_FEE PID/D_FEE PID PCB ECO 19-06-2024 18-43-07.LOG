@@ -1,0 +1,16 @@
+Added Member To Class: ClassName=D_FEE PID Member=Component C9 1uF
+Added Member To Class: ClassName=D_FEE PID Member=Component C10 1uF
+Added Member To Class: ClassName=D_FEE PID Member=Component C12 100nF
+Added Member To Class: ClassName=D_FEE PID Member=Component C14 1uF
+Added Member To Class: ClassName=D_FEE PID Member=Component C15 100nF
+Added Member To Class: ClassName=D_FEE PID Member=Component J1 XT30PW-M
+Added Member To Class: ClassName=D_FEE PID Member=Component J2 SPI
+Added Member To Class: ClassName=D_FEE PID Member=Component R28 4R7
+Added Member To Class: ClassName=D_FEE PID Member=Component R29 4.7K
+Added Member To Class: ClassName=D_FEE PID Member=Component R31 4R7
+Added Member To Class: ClassName=D_FEE PID Member=Component R32 220K
+Added Member To Class: ClassName=D_FEE PID Member=Component R33 220K
+Added Member To Class: ClassName=D_FEE PID Member=Component R34 120R
+Added Member To Class: ClassName=D_FEE PID Member=Component R35 5.1K
+Added Member To Class: ClassName=D_FEE PID Member=Component U9 SN74LVC2G17DCKR
+Added Room: Name=D_FEE PID

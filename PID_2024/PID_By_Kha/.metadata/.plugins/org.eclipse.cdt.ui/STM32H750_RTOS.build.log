@@ -1,0 +1,10 @@
+10:34:42 **** Build of configuration Debug for project STM32H750_RTOS ****
+make -j8 all 
+arm-none-eabi-size  STM32H750_RTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  43844	    328	  28024	  72196	  11a04	STM32H750_RTOS.elf
+Finished building: default.size.stdout
+ 
+
+10:34:43 Build Finished. 0 errors, 0 warnings. (took 737ms)
+

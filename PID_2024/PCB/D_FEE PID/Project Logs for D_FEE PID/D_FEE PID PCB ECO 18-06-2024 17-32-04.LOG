@@ -1,0 +1,20 @@
+Added Component: Designator=Node1(Node_B)
+Added Component: Designator=Node2(Node_B)
+Added Component: Designator=Node3(Node_B)
+Added Component: Designator=Node4(Node_B)
+Added Component: Designator=Node5(Node_B)
+Added Pin To Net: NetName=NetNode1_1 Pin=Node1-1
+Added Pin To Net: NetName=GND Pin=Node1-2
+Added Pin To Net: NetName=NetNode2_1 Pin=Node2-1
+Added Pin To Net: NetName=GND Pin=Node2-2
+Added Pin To Net: NetName=NetNode3_1 Pin=Node3-1
+Added Pin To Net: NetName=GND Pin=Node3-2
+Added Pin To Net: NetName=NetNode4_1 Pin=Node4-1
+Added Pin To Net: NetName=GND Pin=Node4-2
+Added Pin To Net: NetName=NetNode5_1 Pin=Node5-1
+Added Pin To Net: NetName=GND Pin=Node5-2
+Added Member To Class: ClassName=D_FEE PID Member=Component Node1 Node_B
+Added Member To Class: ClassName=D_FEE PID Member=Component Node2 Node_B
+Added Member To Class: ClassName=D_FEE PID Member=Component Node3 Node_B
+Added Member To Class: ClassName=D_FEE PID Member=Component Node4 Node_B
+Added Member To Class: ClassName=D_FEE PID Member=Component Node5 Node_B
